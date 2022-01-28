@@ -3,19 +3,18 @@
 - I'm Sam, a full stack software engineer and graduate of The Grace Hopper Program at Fullstack Academy 
 - Before becoming a software engineer, I was a High School Math and Computer Sciece Teacher 
 
-🔭 I’m currently working on personal projects 🔭
-
-
 ## 📚 Technology Stacks 📚
 
 Languages: 
 - JavaScript 
+- TypeScript
 - HTML 
 - CSS 
 - Java
 - Python
 
 Libraries & Frameworks
+- Next.js
 - React 
 - Redux 
 - Node.js
